@@ -1,0 +1,29 @@
+.menu {
+    background-color: rgb(49, 79, 134);
+    width: 100%;
+    height: 100px;
+    float: inline-start;
+    color: azure;
+    text-align-last: center;
+    font-family: serif;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.corpo {
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    float: inline-end;  
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    img src="img/banner1.png" width="500px"
+}
+.desen {
+    background-color: rgb(121, 74, 74);
+    width: 100%;
+    height: 100%;
+    float: inline-end;
+    color:azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
